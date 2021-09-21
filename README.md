@@ -14,10 +14,4 @@
 
 ## if you want to open it on your on device or simulator
 
-## ionic capacitor add ios
-
-## ionic capacitor open ios
-
-## ionic capacitor copy ios
-
-## ionic capacitor run ios -l --external
+## ionic capacitor run ios -l --external or ionic capacitor run ios  
