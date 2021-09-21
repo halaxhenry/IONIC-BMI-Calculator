@@ -19,3 +19,5 @@
 #### or ionic capacitor run ios  
 
 #### ./serviceWorkerRegistration must be required
+
+#### ionic live reload --> ionic capacitor run ios -l --external
