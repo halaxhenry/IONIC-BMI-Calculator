@@ -14,6 +14,8 @@
 
 ### if you want to open it on your on device or simulator
 
+#### npm run build
+
 #### ionic capacitor run ios -l --external 
 
 #### or ionic capacitor run ios  
